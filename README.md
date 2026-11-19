@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| **Live site** | `https://<your-username>.github.io/<repo-name>/` ← paste your URL here after deploying |
-| **Source code** | `https://github.com/<your-username>/<repo-name>` ← paste your repo link here |
+| **Live site** | `https://sameer1710-project.github.io/ChargeRoute./` ← paste your URL here after deploying |
+
 
 ---
 
