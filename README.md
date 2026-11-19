@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Live site** | `https://sameer1710-project.github.io/ChargeRoute./` ← paste your URL here after deploying |
+| **Live site** | https://sameer1710-project.github.io/ChargeRoute./
 
 
 ---
